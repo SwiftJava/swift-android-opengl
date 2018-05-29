@@ -1,0 +1,5 @@
+module OpenGLESv2 [system] {
+    header "OpenGLESv2.h"
+    link "GLESv2"
+    export *
+}
