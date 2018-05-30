@@ -3,3 +3,8 @@ module OpenGLESv2 [system] {
     link "GLESv2"
     export *
 }
+module OpenGLES [system] {
+    header "OpenGLESv3.h"
+    link "GLESv3"
+    export *
+}

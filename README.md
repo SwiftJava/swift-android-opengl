@@ -1,3 +1,3 @@
 # OpenGLESv2 Swift package
 
-Allows using `OpenGLESv2` in other Swift packages.
+Allows use of `OpenGLESv2/3` in Swift package manager projects.
